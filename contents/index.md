@@ -1,5 +1,5 @@
 - My name is Antoine d'Otreppe, I am a...
-	- @Software Engineer
+	- @ Software Engineer
 		- Proven track record in dev & ops, with a strong interest in security
 		- Started programming early in 2001, and professionally in 2011.
 		- Now progressing to a team lead / architect role.
@@ -9,14 +9,14 @@
 			- I find it's an easy way for me to structure knowledge.
 			- Don't have much time, but want to document stuff for later
 			- So that's a good way to do it.
-	- @Photographer
+	- @ Photographer
 		- I used to be a part-time professional photographer.
 		- I have now stopped doing it professionally.
 			- It's a great art and hobby, but not a great job (for me, at least.)
 		- I continue to enjoy the process for myself.
-	- @Horseman
+	- @ Horseman
 		- I have a Spanish horse, he's the best!
-		- @Horse Training
+		- @ Horse Training
 			- Always be kind and listen to your horse
 			- Have consistent requirements
 			- Anytime you interact with a horse, you are training that horse.
@@ -70,9 +70,9 @@
 				- Challenge your horse's mind as much as his body
 			- Learn about biomechanics
 				- Don't rollkur, it's just demonstrably stupid.
-		- @Horse Health
+		- @ Horse Health
 			- ! Important Note: I am not a vet. Information that you see here is my collected knowledge, and it may be wrong.
-			- @Superficial skin wounds
+			- @ Superficial skin wounds
 				- Often happens when horses fight in the pasture
 					- Lack of food?
 					- Pecking order unclear?
@@ -84,7 +84,7 @@
 						- I use "Baume de Warendorf"
 						- or Furacine when it could get infected
 						- other people use honey
-			- @Laminitis, aka "fourbure" in French
+			- @ Laminitis, aka "fourbure" in French
 				- Inflammation of the inside of the hoof
 				- Quite common and super dangerous
 				- Can be triggered by
@@ -106,7 +106,7 @@
 				- If it's not treated properly
 					- The third phalange of that foot can go through the hoof
 					- It's basically game over by then.
-			- @Colics
+			- @ Colics
 				- Something is not working right in your horse's digestive system
 				- Symptoms
 					- Horse will appear generally unwell

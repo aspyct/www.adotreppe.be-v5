@@ -1,0 +1,128 @@
+- My name is Antoine d'Otreppe, I am a...
+	- @Software Engineer
+		- Proven track record in dev & ops, with a strong interest in security
+		- Started programming early in 2001, and professionally in 2011.
+		- Now progressing to a team lead / architect role.
+		- Yes, this is a homemade website
+			- I wanted something simple
+			- So I made a big list
+			- I find it's an easy way for me to structure knowledge.
+			- Don't have much time, but want to document stuff for later
+			- So that's a good way to do it.
+	- @Photographer
+		- I used to be a part-time professional photographer.
+		- I have now stopped doing it professionally.
+			- It's a great art and hobby, but not a great job (for me, at least.)
+		- I continue to enjoy the process for myself.
+	- @Horseman
+		- I have a Spanish horse, he's the best!
+		- @Horse Training
+			- Always be kind and listen to your horse
+			- Have consistent requirements
+			- Anytime you interact with a horse, you are training that horse.
+			- Horses don't "make fun of you", they are just trying to say something.
+			- Observe how horses communicate between themselves
+				- Just go sit in that pasture and enjoy life. Isn't that why you're here anyway?
+			- Control your energy
+				- Are you in a good mood?
+					- Sometimes it's better to do nothing if you're not in the right mindset.
+				- Are you calm enough for a quiet moment?
+				- Are you energetic enough for a sporty moment?
+			- Two ways to reinforce behavior
+				- Positive reinforcement: "Good job! Have a carrot!"
+					- Have a clear "good job" sign
+						- Some use a clicker
+						- I use a specific tongue noise
+						- Be consistent. If you do the sign, give a treat.
+					- Bring the treat to the horse, not the opposite
+						- Otherwise over time your horse will rip the treat off of your hand (or pocket...)
+					- Between horses, they also have positive reinforcement, for example when they groom
+				- Negative reinforcement: "I'll stop asking when you comply."
+					- Use 4 "pressure phases"
+						- Give your horse an opportunity to react to low pressure before you increase pressure
+						- If you do it right, over time he will react earlier
+						- "increase pressure" does not mean "get upset"
+							- You should be in control of your energy at all time
+					- Between horses, they also have negative reinforcement with phases:
+						- 1. Move, take space
+						- 2. Pin ears
+						- 3. Bite
+						- 4. Kick
+				- You should use both methods
+			- Desensitization must be done right
+				- Teach your horse to choose to be courageous
+				- You horse must have the opportunity to escape
+					- Loose rope or liberty
+				- Wave the scary object far away first
+					- Horse must be relaxed 9 out of 10 times before you move closer
+					- The 10th time, you win if he moves his head but not his feet
+						- Remember: loose rope or liberty. He must be free to move.
+					- If you won, get closer
+					- If you didn't, take a step back and repeat.
+				- Otherwise you're just teaching him to give up and close himself
+					- Do that and one day he'll send you to the moon.
+				- You can also teach your horse to touch something on command
+					- Carrots!
+					- Fun exercise when you come across scary things
+			- Ground work is important and fun!
+				- Whoever controls the other's feet wins.
+				- Try liberty work sometime.
+				- Challenge your horse's mind as much as his body
+			- Learn about biomechanics
+				- Don't rollkur, it's just demonstrably stupid.
+		- @Horse Health
+			- ! Important Note: I am not a vet. Information that you see here is my collected knowledge, and it may be wrong.
+			- @Superficial skin wounds
+				- Often happens when horses fight in the pasture
+					- Lack of food?
+					- Pecking order unclear?
+				- Usually without long term consequences
+				- Treatment
+					- Clean gently with water
+					- Disinfect with iodine (iso-betadine jaune)
+					- Protect the wound against dirt and flies
+						- I use "Baume de Warendorf"
+						- or Furacine when it could get infected
+						- other people use honey
+			- @Laminitis, aka "fourbure" in French
+				- Inflammation of the inside of the hoof
+				- Quite common and super dangerous
+				- Can be triggered by
+					- too much sugar in the grass (most common)
+					- way too much work
+					- Equine Metabolic Syndrome (~= diabetes in humans)
+				- Symptoms
+					- Hoof is warm to the touch
+						- I'm not sure how warm. My horse sometimes has one hoof a little warm, but it doesn't last more than a day.
+					- Horse shows signs of lameness
+					- Hearth pulsations can be felt in the blood vessels at the fetlock ("boulet")
+				- Treatment
+					- Call your vet.
+					- Reduce sugary food intake
+						- Let hay soak in water before serving (~2h max)
+						- Limit access to grass
+							- In particular short grass, as it contains a lot of sugar.
+					- Be patient, it takes a long time to heal properly.
+				- If it's not treated properly
+					- The third phalange of that foot can go through the hoof
+					- It's basically game over by then.
+			- @Colics
+				- Something is not working right in your horse's digestive system
+				- Symptoms
+					- Horse will appear generally unwell
+					- Lowered interest in food
+					- He looks, kicks or bites at his belly
+					- He lies down and rolls a lot
+						- Hey, sometimes he's just trying to sleep or have a good roll.
+						- If he's only trying to lie down and roll without the other symptoms, you're probably good.
+					- Sweating, heavy breathing
+				- Treatment
+					- Call your vet RIGHT NOW.
+					- Try and get the horse to move
+						- Walking is a good start
+						- Trotting is good, but don't force it
+						- Don't let your horse lie down.
+					- Discuss the causes of the colic with your vet
+		- Plants
+	- You can get in touch with me at a.dotreppe@aspyct.org
+	- I'm from Belgium, btw, nice to meet you!
